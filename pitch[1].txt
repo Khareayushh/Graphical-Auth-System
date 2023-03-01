@@ -1,0 +1,35 @@
+1. Introduction (1 minute):
+Good afternoon everyone, my name is [Your Name] with my teamamtes and today I'll be presenting my project on graphical authentication system for online banking. Online banking has become a part of our daily lives, bringing convenience to our financial transactions. However, with this convenience comes the threat of cybercrime and hackers who try to steal our sensitive information. This is where the need for stronger and more user-friendly authentication methods arises.
+
+2. Problem Statement (1 minute):
+Online banking has become a convenient and essential part of our lives, but it also presents a significant risk for cybercrime. Recent studies have shown that text-based passwords are no longer adequate to secure online banking transactions. Passwords can be easily forgotten or hacked, putting sensitive information at risk. In fact, according to a recent report by Verizon, 81% of data breaches involve weak or stolen passwords. This highlights the need for a more secure and user-friendly authentication method.
+
+The traditional text-based password system is no longer enough to protect against the increasing threat of cybercrime. We need a solution that is not only secure but also easy for users to remember and use. This is where our graphical authentication system comes in, offering a solution that provides both security and user experience.
+
+3. Solution (3 minutes):
+That's where our project comes in. We have developed a graphical authentication system for online banking, where users set a pattern on a grid during signup. This pattern is encrypted and stored in the database, serving as a second factor for authentication. During login, users first enter their username and password, and then enter the grid pattern. The system then compares the pattern to the one stored in the database, ensuring that the user is who they say they are. The use of a pattern on a grid is not only more secure but also more memorable and user-friendly than traditional passwords. Our system is designed to provide a better user experience while ensuring the security of online banking transactions.
+
+Scalability and Versatility (1 minute):
+The best part about our project is its scalability and versatility. Our system can easily be integrated into existing online banking systems, making the transition to our system seamless for users. Additionally, our project has the potential to be used across a variety of platforms, including web and mobile, making it accessible to a large audience.
+
+Future Plans (1 minute):
+Moving forward, our plans are to further develop the project and turn it into an API or SDK format. This will make it easier for developers to integrate it into their own applications and bring the benefits of our graphical authentication system to even more users.
+
+Monetization (1 minute):
+We plan to monetize our project by charging a license fee for its use, or taking a percentage of transactions processed through the authentication system. With the increasing demand for strong and user-friendly authentication methods, we believe that our project has the potential to be a valuable asset for online banking security.
+
+Conclusion (30 seconds):
+In conclusion, our graphical authentication system for online banking is a user-friendly and secure solution to the problem of online banking authentication. Its scalability, versatility, and potential for monetization make it a valuable asset for the future of online banking security. Thank you for your time and consideration.
+
+
+future scope --
+
+Integration with biometric authentication: Biometric authentication methods, such as fingerprint recognition or facial recognition, can be integrated with our graphical authentication system to provide an even higher level of security.
+
+Dynamic grids: Instead of using a fixed grid pattern, a dynamic grid could be used, where the pattern changes with each login attempt. This makes it more difficult for hackers to crack the pattern and provides an extra layer of security.
+
+Machine learning algorithms: By incorporating machine learning algorithms, our system can continuously adapt and improve, learning from user behavior and detecting any anomalies or potential threats in real-time.
+
+Two-factor authentication: Our system can be extended to include two-factor authentication, where users would receive a one-time code via SMS or email to confirm their identity, in addition to entering the pattern and password.
+
+Regular security audits: Regular security audits and penetration testing can be performed to identify and address any potential security vulnerabilities in our system, keeping it up-to-date with the latest security standards.
